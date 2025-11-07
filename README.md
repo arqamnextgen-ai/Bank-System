@@ -1,4 +1,4 @@
-Bank Account Simulation System (Java)
+# Bank Account System 
 
 This is a *Console-Based Bank Account Simulation Project* created using *Core Java*.  
 It allows users to create a bank account and perform basic banking operations such as:
@@ -11,7 +11,7 @@ It allows users to create a bank account and perform basic banking operations su
 This project uses *Object-Oriented Programming (OOP)* concepts like:
 Classes, Objects, Encapsulation, and Methods.
 
- 🚀 Features
+# 🚀 Features
 
 | Feature | Description |
 |--------|-------------|
@@ -22,7 +22,7 @@ Classes, Objects, Encapsulation, and Methods.
 | Display Details | Shows stored account information |
 | Menu Driven | User interacts via console menu |
 
- 🛠️ Technologies Used
+# 🛠️ Technologies Used
 
 - *Java (Core Java)*
 - *Scanner Class* for Input
